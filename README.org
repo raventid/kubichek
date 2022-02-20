@@ -1,2 +1,2 @@
 # kubichek
-Small orchestrator to deploy services
+Small orchestrator to deploy services. This is a very simple ad-hoc k8s-like system.
